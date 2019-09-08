@@ -408,6 +408,7 @@ body.offcanvas {
   margin-bottom: 4em;
   font-weight: 700;
   text-transform: uppercase;
+  font-family: "Quicksand", Arial, sans-serif;
   letter-spacing: 5px;
   line-height: 1.8;
   position: relative; }
